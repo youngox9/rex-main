@@ -3,12 +3,12 @@
 @import url("https://fonts.googleapis.com/css2?family=Noto+Sans&family=Noto+Sans+TC:wght@100;300;400;500;600;700;900&family=Roboto:wght@100;300;400;500;700;900&display=swap");
 
 @import "swiper/css";
-// @import "antd/dist/antd.dark.css";
 
 $md: 768px;
 
 html,
 body {
+  background-color: black;
   font-family: "Noto Sans TC", "Lucida Grande", sans-serif !important;
 }
 
